@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title> About Me </title>
+		<link rel = "stylesheet" type = "text/css" href = "style.css">
+	</head>
+	<body class = "background">
+		<h2 class = "center"> More about me... </h2>
+		<p id = "para1"> Things I like: </p>
+		<div class = "imgdiv1"> 
+		<img src = "dance.gif">
+		</div>
+		<div class = "imgdiv2"> 
+		<img src = "coding.gif">
+		</div>
+
+		<div class = "div1"> want to know less? <br> 
+		Visit: <a href = "home.html"> Home </a>
+		</div>	
+		
+		<div class = "brd"><a href = "contactme.html">  Contact me </a></div>
+	</body>
+
+</html>

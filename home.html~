@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title> Home Page </title>
+		<link rel = "stylesheet" type = "text/css" href = "style.css">
+	</head>
+	
+	<body class = "background">
+		<h2 class = "center"> Welcome to my webpage! </h2>
+		<p id = "para1"> A little bit about me... </p>
+		<p id = "para2"> blah blah blah add stuff </p>
+		  
+		<div class = "div1"> want to know more? <br> 
+		Visit: <a href = "aboutme.html"> About Me </a>
+		</div>
+		
+		<div class = "cmd"><a href = "contactme.html">  Contact me </a></div>
+	</body>
+
+</html>

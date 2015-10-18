@@ -1,0 +1,70 @@
+.center {
+	text-align: center;
+	color: pink;
+}
+
+#para1 {
+	text-align: center;
+	color: purple;
+}
+
+#para2 {
+	text-align: center;
+	color: blue;
+}
+
+.div1 {
+    	width: 150px;
+    	padding: 10px;
+    	border: 10px solid #B93BF7;
+    	margin: auto;
+	text-align: center;
+}
+
+.div2 {
+	position: fixed;
+    	width: 150px;
+    	padding: 10px;
+    	border: 10px solid #B93BF7;
+    	margin: auto;
+	text-align: center;
+}
+
+.background {
+	background-image: url(pretty.jpg);
+	background-size: 4.0 1.0 -webkit-;
+}
+
+.imgdiv1 {
+	background-image: url(dance.gif);
+	float: left;
+	background-repeat: no-repeat;
+}
+
+.imgdiv2 {
+	background-image: url(dance.gif);
+	float: right;
+	background-repeat: no-repeat;
+}
+
+.brd {
+	position: fixed;
+    	top: 615px;
+    	right: 0;
+    	width: 100px;
+    	height: 50px;
+    	border: 3px solid #8AC007;
+	text-align: center;
+}
+
+.bld {
+	position: fixed;
+    	top: 615px;
+    	left: 0;
+    	width: 100px;
+    	height: 50px;
+    	border: 3px solid #8AC007;
+	text-align: center;
+}
+
+
