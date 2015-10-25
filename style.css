@@ -22,7 +22,7 @@
 }
 
 .div2 {
-	position: fixed;
+	position: relative;
     	width: 150px;
     	padding: 10px;
     	border: 10px solid #B93BF7;
@@ -36,15 +36,14 @@
 }
 
 .imgdiv1 {
-	background-image: url(dance.gif);
+	position: relative;
 	float: left;
 	background-repeat: no-repeat;
 }
 
-.imgdiv2 {
-	background-image: url(dance.gif);
-	float: right;
-	background-repeat: no-repeat;
+.imgsize {
+	height: 200px;
+	width: 250px;
 }
 
 .brd {

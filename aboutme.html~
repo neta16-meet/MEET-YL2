@@ -9,11 +9,14 @@
 		<div class = "imgdiv1"> 
 		<img src = "dance.gif">
 		</div>
-		<div class = "imgdiv2"> 
+		<div class = "imgdiv1"> 
 		<img src = "coding.gif">
 		</div>
+		<div class = "imgdiv1"> 
+		<img src = "chem.gif">
+		</div>
 
-		<div class = "div1"> want to know less? <br> 
+		<div class = "div2"> want to know less? <br> 
 		Visit: <a href = "home.html"> Home </a>
 		</div>	
 		
