@@ -1,17 +1,18 @@
 
-#para1 {
-	text-align: center;
-	color: purple;
-}
-
-#para2 {
-	text-align: center;
-	color: blue;
-}
-
 @font-face {
     font-family: "coolfont";
     src: url("Confetti Stream.ttf");
+}
+@font-face {
+    font-family: "coolfont2";
+    src: url("timeburner_regular.ttf");
+}
+
+.p {
+	text-align: center;
+	font-family: "coolfont2";
+	font-size: 150%;
+	color: #09A16E;
 }
 
 .center {
@@ -21,10 +22,10 @@
 }
 
 .div1 {
-    	width: 150px;
-    	padding: 10px;
-    	border: 10px solid #B93BF7;
-    	margin: auto;
+    width: 150px;
+    padding: 10px;
+    border: 10px solid #B93BF7;
+    margin: auto;
 	text-align: center;
 }
 
